@@ -1,13 +1,10 @@
-This Matlab code implements a basic version of the m-LSEJD algorithm described in the paper:
+### This repository contains the Matlab code used for implementing a basic version of the m-LSEJD algorithm in the following paper.
 
-"Geometric Multimodal Learning Based on Local Signal Expansion for Joint Diagonalization,"
-Maysam Behmanesh, Peyman Adibi, Jocelyn Chanussot, Christian Jutten, and Sayyed Mohammad Saeed Ehsani
-, IEEE Transactions on Signal Processing 2021
+>M. Behmanesh, P. Adibi, J. Chanussot, C. Jutten and S. M. S. Ehsani, “Geometric Multimodal Learning Based on Local Signal Expansion for Joint Diagonalization,” IEEE Transactions on Signal Processing, vol. 69, pp. 1271-1286, 2021.
 
 email: mbehmanesh@eng.ui.ac.ir
 
-
-
+PDF (https://drive.google.com/file/d/1EtLTlBrlO3oIdZddzYEy-88ZSBURxlEF/view)
 
 
 
